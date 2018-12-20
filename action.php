@@ -1,6 +1,6 @@
 <?php
 
-include 'connection.php';
+include 'connection.php'; // for security reasons this file is not included in this package
 
   // Check connection
 
